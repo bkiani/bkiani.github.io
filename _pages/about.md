@@ -12,4 +12,4 @@ I'm Bobak, a PhD student at MIT studying Electrical Engineering and Computer Sci
 
 My background
 ======
-I grew up in Philadelphia and attended Johns Hopkins University for college. 
+I grew up in Philadelphia and attended Johns Hopkins University for college.  
