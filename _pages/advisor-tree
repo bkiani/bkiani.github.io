@@ -1,0 +1,45 @@
+---
+layout: archive
+title: "Advisor Tree"
+permalink: /advisor-tree/
+author_profile: true
+---
+
+<div class="tree">
+<ul> <!-- L6 -->
+<li> 
+<a href="#">RO</a>
+<ul> <!-- L5 -->
+<li> 
+<a href="#">SD</a>
+<ul> <!-- L4 -->
+<li> 
+<a href="#">SD</a>
+<ul> <!-- L3 -->
+<li> 
+<a href="#">HP</a>
+<ul>
+<li> <!-- L2 -->
+<a href="#">SL</a>
+<ul>
+<li> <!-- L1 -->
+<a href="https://www.dictionary.com/browse/test">Me</a>
+</li> <!-- L1 --> 
+</ul> 
+</li> <!-- L2 -->
+</ul> 
+</li> <!-- L3 -->
+</ul> 
+</li> <!-- L4 -->
+</ul> 
+</li> <!-- L5 -->
+</ul> 
+</li> <!-- L6 -->
+</ul> 
+</div>
+
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
