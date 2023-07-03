@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Bobak, a PhD student at MIT studying Electrical Engineering and Computer Science. My research areas are related to machine learning and quantum computation. My work focuses on learning the limits and capabilities of algorithms in both machine learning and quantum computation. Prior to MIT, I was an undergraduate at Johns Hopkins University studying mechanical engineering and worked as a consultant at BCG. I grew up in Philadelphia and now live in Boston. 
+
+Hi! I'm Bobak, a postdoc at Harvard University in the Applied Mathematics and Computer Science department in Melanie Weber's group. Before this, I was a PhD student at MIT studying Electrical Engineering and Computer Science. Originally from Philadelphia, I now live in Boston.
+
+My research areas are related to machine learning and quantum computation. In quantum computation, my work focuses on learning the limits and capabilities of algorithms especially those related to quantum machine learning. On the classical side, I am interested in topics such as self-supervised learning and theoretically studying the role of geometry and symmetries in learning algorithms. 
 
 My CV can be [found here](https://bkiani.github.io/files/BKiani_CV.pdf).
 
