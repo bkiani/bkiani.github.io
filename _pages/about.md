@@ -15,4 +15,4 @@ My research areas are related to machine learning and quantum computation. In qu
 
 My CV can be [found here](https://bkiani.github.io/files/BKiani_CV.pdf).
 
-I'm always interested in meeting new people so please reach out to me if you want to chat. The best way to reach me is via email: bkiani at mit dot edu
+I'm always interested in meeting new people so please reach out to me if you want to chat. The best way to reach me is via email: bkiani at g.harvard dot edu
