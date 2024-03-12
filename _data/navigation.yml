@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
 #   - title: "Talks"
 #     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
@@ -22,5 +22,5 @@ main:
   #  url: /markdown/
 #
 
-  - title: "Advisor Tree"
-    url: /advisor-tree/    
+  # - title: "Advisor Tree"
+  #   url: /advisor-tree/    
