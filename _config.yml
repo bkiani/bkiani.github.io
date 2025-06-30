@@ -83,8 +83,8 @@ author:
   name             : "Bobak T. Kiani"
   avatar           : "profile.png"
   bio              : "I am an assistant professor at Bowdoin College. My research focuses on quantum algorithms, random Hamiltonians, and theoretical machine learning."
-  location         : "Boston, MA"
-  employer         :
+  location         : "Portland, ME"
+  employer         : "Bowdoin College"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=fz1mq4AAAAAJ&hl"
   email            :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bkiani"
+  github           : # "bkiani"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "bobak_kiani"
+  twitter          : # "bobak_kiani"
   vine             :
   weibo            :
   xing             :
